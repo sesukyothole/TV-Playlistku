@@ -1,1 +1,947 @@
-1
+#EXTM3U url-tvg="https://tv.last.biz.id/vidio/epg.php" x-tvg-url="https://tv.last.biz.id/vidio/epg.php"
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-chno="1" tvg-logo="https://thumbor.prod.vidiocdn.com/a5ZpTlVd_UxcprxeV7jnHlis55s=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/337c4d.png" group-title="TV Nasional", RCTI
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://www.rctiplus.com/"}
+https://tv.last.biz.id/vidio/menculik/rcti.m3u8
+
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-chno="2" tvg-logo="https://thumbor.prod.vidiocdn.com/Ued7cpbsAhZhZM9mHZMVb1R2OF4=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" group-title="TV Nasional", SCTV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/sctv.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/sctv.mpd
+
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-chno="3" tvg-logo="https://thumbor.prod.vidiocdn.com/XK2gTvwCd4ePgcSM4hQzau0L7lY=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="TV Nasional", Indosiar
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/indosiar.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/indosiar.mpd
+
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-chno="4" tvg-logo="https://thumbor.prod.vidiocdn.com/ISnbOKLRmsaKkosLH6uWBsjDawk=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/ca65b5.png" group-title="TV Nasional", MNCTV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://www.rctiplus.com/"}
+https://tv.last.biz.id/vidio/menculik/mnctv.m3u8
+
+#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-chno="5" tvg-logo="https://thumbor.prod.vidiocdn.com/uj8BQQxA0_H_bX40VPk6x6Z-aYY=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/778/810229.png" group-title="TV Nasional", GTV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://www.rctiplus.com/"}
+https://tv.last.biz.id/vidio/menculik/gtv.m3u8
+
+#EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews" tvg-chno="6" tvg-logo="https://thumbor.prod.vidiocdn.com/idNs0c-ropLtPx85oDsGvZTmkjU=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/5409/c40666.png" group-title="TV Nasional", iNews
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://www.rctiplus.com/"}
+https://tv.last.biz.id/vidio/menculik/inews.m3u8
+
+#EXTINF:-1 tvg-id="Moji.id" tvg-name="Moji" tvg-chno="7" tvg-logo="https://thumbor.prod.vidiocdn.com/WqWHsGyTe9RzS8tgHmemQT2QTT4=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png" group-title="TV Nasional", Moji
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/moji.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/moji.mpd
+
+#EXTINF:-1 tvg-id="MentariTV.id" tvg-name="Mentari TV" tvg-chno="8" tvg-logo="https://thumbor.prod.vidiocdn.com/f3hdIHaahnANkU0uSklwpaq6TlM=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8237/18585d.png" group-title="TV Nasional", Mentari TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/mentari.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/mentari.mpd
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="TRANS TV" tvg-chno="9" tvg-logo="https://thumbor.prod.vidiocdn.com/8uyGN8ro7p1SWsCgQOFidd-cz1Y=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png" group-title="TV Nasional", TRANS TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/transtv.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/transtv.mpd
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans7" tvg-chno="10" tvg-logo="https://thumbor.prod.vidiocdn.com/l5TjD581Gd52Na027XzvztBlA1c=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png" group-title="TV Nasional", Trans7
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/trans7.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/trans7.mpd
+
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-chno="11" tvg-logo="https://thumbor.prod.vidiocdn.com/FTC9Tvd28XOalTVkGicEGEeCaxo=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png" group-title="TV Nasional", ANTV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/antv.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/antv.mpd
+
+#EXTINF:-1 tvg-id="TVOne.id" tvg-name="TVOne" tvg-chno="12" tvg-logo="https://thumbor.prod.vidiocdn.com/mVhP1N5izN2koob5r1WS1BAEgkg=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/783/07750c.png" group-title="TV Nasional", TVOne
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/tvone.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/tvone.mpd
+
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-chno="13" tvg-logo="https://thumbor.prod.vidiocdn.com/60DNnaTD09N05GWdzrWQeEzgJyc=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/ea8483.png" group-title="TV Nasional", Metro TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/metrotv.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/metrotv.mpd
+
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-name="Kompas TV" tvg-chno="14" tvg-logo="https://thumbor.prod.vidiocdn.com/Kzz1dWgw9kR9FkGkhBCBYyP0u5w=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/042ca3.png" group-title="TV Nasional", Kompas TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/kompastv.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/kompastv.mpd
+
+#EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV" tvg-chno="15" tvg-logo="https://thumbor.prod.vidiocdn.com/gXoMYs0bom5dEZGXeaK_-efC9a0=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/665aea.png" group-title="TV Nasional", RTV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/rtv.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/rtv.mpd
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-chno="16" tvg-logo="https://thumbor.prod.vidiocdn.com/ot6wuFB7eQyb6RNLO6syHQKcAfU=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6441/528cc9.png" group-title="TV Nasional", TVRI
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/tvri.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/tvri.mpd
+
+#EXTINF:-1 tvg-id="BTV.id" tvg-name="BTV" tvg-chno="17" tvg-logo="https://thumbor.prod.vidiocdn.com/1nK2F8U-XNp877ekgiDhddhD4Fs=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6165/7cd920.png" group-title="TV Nasional", BTV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/btv.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/btv.mpd
+
+#EXTINF:-1 tvg-id="GarudaTV.id" tvg-name="Garuda TV" tvg-chno="18" tvg-logo="https://thumbor.prod.vidiocdn.com/aRhv_g5XUCMcGb0tIvirsdYhzZE=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18162/b4bea2.png" group-title="TV Nasional", Garuda TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/garudatv.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/garudatv.mpd
+
+#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="Berita Satu" tvg-chno="19" tvg-logo="https://thumbor.prod.vidiocdn.com/-JKk3iTPeveKEwzEcluCSm4lMts=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18280/c7fc8f.png" group-title="Berita & Internasional", Berita Satu
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/beritasatu.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/beritasatu.mpd
+
+#EXTINF:-1 tvg-id="Sin Po TV" tvg-name="Sin Po TV" tvg-chno="20" tvg-logo="https://thumbor.prod.vidiocdn.com/HwIfmxOGLIKB03toopIzIgFbzAo=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/19046/aaa3fa.png" group-title="TV Nasional", Sin Po TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/sinpotv.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/sinpotv.mpd
+
+#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-name="Nusantara TV" tvg-chno="21" tvg-logo="https://thumbor.prod.vidiocdn.com/lrUKNI0nbOJBhg6OKkH4YqNymLQ=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7432/bfecbc.png" group-title="TV Nasional", Nusantara TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/nusantaratv.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/nusantaratv.mpd
+
+#EXTINF:-1 tvg-id="Magna TV" tvg-name="Magna TV" tvg-chno="22" tvg-logo="https://thumbor.prod.vidiocdn.com/hr3l92ltHJXHWqoFDKQZucGOArc=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7230/7d6bf5.jpg" group-title="TV Nasional", Magna TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/magnatv.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/magnatv.mpd
+
+#EXTINF:-1 tvg-id="DAAI TV" tvg-name="DAAI TV" tvg-chno="23" tvg-logo="https://thumbor.prod.vidiocdn.com/lEx6FCKyVU-Hy4b_dWa-0IXZVyA=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6482/e83fcf.png" group-title="TV Daerah & Religi", DAAI TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/daaitv.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/daaitv.mpd
+
+#EXTINF:-1 tvg-id="Jaktv" tvg-name="Jaktv" tvg-chno="24" tvg-logo="https://thumbor.prod.vidiocdn.com/10BeR50GodPzL51K7estpRcJqgA=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/5415/802b76.png" group-title="TV Nasional", Jaktv
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/jaktv.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/jaktv.mpd
+
+#EXTINF:-1 tvg-id="MDTV" tvg-name="MDTV" tvg-chno="25" tvg-logo="https://thumbor.prod.vidiocdn.com/CfDXlzdqejm5cF9BXOU95Gsic2I=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/325605.png" group-title="TV Nasional", MDTV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/mdtv.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/mdtv.mpd
+
+#EXTINF:-1 tvg-id="DW English" tvg-name="DW English" tvg-chno="26" tvg-logo="https://thumbor.prod.vidiocdn.com/7p4eNW5U_-tilz68Apep6KpQjhU=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/5075/f6106b.png" group-title="Berita & Internasional", DW English
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/dwenglish.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/dwenglish.mpd
+
+#EXTINF:-1 tvg-id="beINSports1.id" tvg-name="Bein 1" tvg-chno="27" tvg-logo="https://thumbor.prod.vidiocdn.com/wSDoZQVVJjdAl5uDKIHx6Gww80c=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6299/d74f54.png" group-title="Sports", Bein 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/bein1.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/bein1.mpd
+
+#EXTINF:-1 tvg-id="beINSports3.id" tvg-name="Bein 3" tvg-chno="28" tvg-logo="https://thumbor.prod.vidiocdn.com/tQGRFmOnAckF8HpTU4k_mUKmTWM=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6317/4a8762.png" group-title="Sports", Bein 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/bein3.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/bein3.mpd
+
+#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-chno="29" tvg-logo="https://thumbor.prod.vidiocdn.com/mC10k5ouItm5lJ-0hipaSw3FAs8=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6362/dcd434.png" group-title="Hiburan & Film", TVN
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/tvn.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/tvn.mpd
+
+#EXTINF:-1 tvg-id="Horee" tvg-name="Horee" tvg-chno="30" tvg-logo="https://thumbor.prod.vidiocdn.com/1xwpxzLtco3_8ITCfMBIxYo7lyw=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6397/d422cd.png" group-title="Hiburan & Film", Horee
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/horee.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/horee.mpd
+
+#EXTINF:-1 tvg-id="Aljazeera" tvg-name="Aljazeera" tvg-chno="31" tvg-logo="https://thumbor.prod.vidiocdn.com/lie2ZRWn6XFjT2eZiNiMUe-er8A=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6410/6027db.png" group-title="Berita & Internasional", Aljazeera
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/aljazeera.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/aljazeera.mpd
+
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-chno="32" tvg-logo="https://thumbor.prod.vidiocdn.com/qFWkiN1wkTeqvgffDi7A2VPgu-8=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6411/49242c.png" group-title="Berita & Internasional", CNA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/cna.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/cna.mpd
+
+#EXTINF:-1 tvg-id="Euronews" tvg-name="Euronews" tvg-chno="33" tvg-logo="https://thumbor.prod.vidiocdn.com/3eOT2unns1b3eMS7uMPzJSIlYsI=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6412/c0e105.png" group-title="Berita & Internasional", Euronews
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/euronews.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/euronews.mpd
+
+#EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-name="Champions TV 1" tvg-chno="34" tvg-logo="https://thumbor.prod.vidiocdn.com/0i2trvaiAnlwnK3a9RWJnIz4aLE=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6685/a2ed39.png" group-title="Sports", Champions TV 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/champions1.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/champions1.mpd
+
+#EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-name="Champions TV 2" tvg-chno="35" tvg-logo="https://thumbor.prod.vidiocdn.com/A8DgS8eYhBYDnUdM4ZkkzrFnI5w=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6686/14270d.png" group-title="Sports", Champions TV 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/champions2.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/champions2.mpd
+
+#EXTINF:-1 tvg-id="Arirang" tvg-name="Arirang" tvg-chno="36" tvg-logo="https://thumbor.prod.vidiocdn.com/V98kFWE8kSX24xbgPmdAn7IWqRQ=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6784/b9cb20.png" group-title="Berita & Internasional", Arirang
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/arirang.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/arirang.mpd
+
+#EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-name="Champions TV 3" tvg-chno="37" tvg-logo="https://thumbor.prod.vidiocdn.com/meDW2eIx05Hx8_GNAIgyES04J84=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6786/d2ebc5.png" group-title="Sports", Champions TV 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/champions3.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/champions3.mpd
+
+#EXTINF:-1 tvg-id="Makkah TV" tvg-name="Makkah TV" tvg-chno="38" tvg-logo="https://thumbor.prod.vidiocdn.com/0k6GGofQ3N1ywnKENFTE80uI5b0=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6852/1047bc.png" group-title="TV Daerah & Religi", Makkah TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/makkahtv.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/makkahtv.mpd
+
+#EXTINF:-1 tvg-id="U-Channel TV" tvg-name="U-Channel TV" tvg-chno="39" tvg-logo="https://thumbor.prod.vidiocdn.com/x7dVSHyViTR5dTvPEMYJ_BlmJM4=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6898/7e119a.png" group-title="TV Daerah & Religi", U-Channel TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/uchannel.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/uchannel.mpd
+
+#EXTINF:-1 tvg-id="Hip Hip Horee!" tvg-name="Hip Hip Horee!" tvg-chno="40" tvg-logo="https://thumbor.prod.vidiocdn.com/gkcZoMlasWB9RlL120fry1ZbB3M=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7052/63032e.png" group-title="Hiburan & Film", Hip Hip Horee!
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/hiphiphoree.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/hiphiphoree.mpd
+
+#EXTINF:-1 tvg-id="ABC Australia" tvg-name="ABC Australia" tvg-chno="41" tvg-logo="https://thumbor.prod.vidiocdn.com/MPzFu1qaq-Eb4TFUuK0ZSRCn4hU=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7150/2de77e.png" group-title="Berita & Internasional", ABC Australia
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/abcaustralia.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/abcaustralia.mpd
+
+#EXTINF:-1 tvg-id="AJWA TV" tvg-name="AJWA TV" tvg-chno="42" tvg-logo="https://thumbor.prod.vidiocdn.com/Iwam8TZg1IczhRO5BI2xp9QESTs=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7464/e69965.png" group-title="TV Daerah & Religi", AJWA TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/ajwatv.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/ajwatv.mpd
+
+#EXTINF:-1 tvg-id="MUSICA" tvg-name="MUSICA" tvg-chno="43" tvg-logo="https://thumbor.prod.vidiocdn.com/9p5kOs_udy6akoXFdYxoVwz4Itk=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7619/379f71.png" group-title="TV Daerah & Religi", MUSICA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/musica.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/musica.mpd
+
+#EXTINF:-1 tvg-id="NHK World Japan" tvg-name="NHK World Japan" tvg-chno="44" tvg-logo="https://thumbor.prod.vidiocdn.com/CgYAY8LID4iwDJ8I6yHY6yTZE5A=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7968/069757.png" group-title="Berita & Internasional", NHK World Japan
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/nhkworld.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/nhkworld.mpd
+
+#EXTINF:-1 tvg-id="Rock Action" tvg-name="Rock Action" tvg-chno="45" tvg-logo="https://thumbor.prod.vidiocdn.com/BmgtNM-Chv9nhFT9Yk4j_k-VBHM=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8121/e9e2b9.png" group-title="Hiburan & Film", Rock Action
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/rockaction.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/rockaction.mpd
+
+#EXTINF:-1 tvg-id="ChampionsTV5.id" tvg-name="Champions TV 5" tvg-chno="46" tvg-logo="https://thumbor.prod.vidiocdn.com/r3ZDSFjLdonYGLkJlR_NzZ64Z_A=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9182/13b733.png" group-title="Sports", Champions TV 5
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/champions5.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/champions5.mpd
+
+#EXTINF:-1 tvg-id="ChampionsTV6.id" tvg-name="Champions TV 6" tvg-chno="47" tvg-logo="https://thumbor.prod.vidiocdn.com/3z2C6g21MiF4R8ydJjCLtswgYDg=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9183/33e19d.png" group-title="Sports", Champions TV 6
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/champions6.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/champions6.mpd
+
+#EXTINF:-1 tvg-id="PremierLeague.id" tvg-name="Premier League TV" tvg-chno="48" tvg-logo="https://thumbor.prod.vidiocdn.com/tY2VFEH1KblsHHpClEGAnKXIss4=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9353/a79dfe.png" group-title="Sports", Premier League TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/epl.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/epl.mpd
+
+#EXTINF:-1 tvg-id="JTV.id" tvg-name="JTV" tvg-chno="49" tvg-logo="https://thumbor.prod.vidiocdn.com/9S2KUd6y_4PzLp6ywlFSraQyx88=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9713/1119f8.png" group-title="TV Daerah & Religi", JTV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/jtv.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/jtv.mpd
+
+#EXTINF:-1 tvg-id="jawaposTV" tvg-name="jawaposTV" tvg-chno="50" tvg-logo="https://thumbor.prod.vidiocdn.com/eLJ_xPxl6WM1zgoyNjhTdsNlcXc=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9714/5a2fad.jpg" group-title="TV Daerah & Religi", jawaposTV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/jawapostv.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/jawapostv.mpd
+
+#EXTINF:-1 tvg-id="Elshinta TV" tvg-name="Elshinta TV" tvg-chno="51" tvg-logo="https://thumbor.prod.vidiocdn.com/a5BFyVvQ44YvngwwFpzBL5f6ARQ=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/10975/0dc2d8.png" group-title="TV Daerah & Religi", Elshinta TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/elshintatv.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/elshintatv.mpd
+
+#EXTINF:-1 tvg-id="DMI TV" tvg-name="DMI TV" tvg-chno="52" tvg-logo="https://thumbor.prod.vidiocdn.com/GR_VdLCahNEVwbTh0W8JIbJaBAI=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/12607/de1855.png" group-title="TV Daerah & Religi", DMI TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/dmitv.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/dmitv.mpd
+
+#EXTINF:-1 tvg-id="Africanews" tvg-name="Africanews" tvg-chno="53" tvg-logo="https://thumbor.prod.vidiocdn.com/YlM6ZXMDPBI488_WAyRXHpdcNB8=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/12784/b75a42.png" group-title="Berita & Internasional", Africanews
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/africanews.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/africanews.mpd
+
+#EXTINF:-1 tvg-id="SPOTV.id" tvg-name="SPOTV" tvg-chno="54" tvg-logo="https://thumbor.prod.vidiocdn.com/vD5_Bk3PSBUmLnEH0A3Ymq6nDnA=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/17139/e5207b.png" group-title="Sports", SPOTV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/spotv.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/spotv.mpd
+
+#EXTINF:-1 tvg-id="SPOTV2.id" tvg-name="SPOTV 2" tvg-chno="55" tvg-logo="https://thumbor.prod.vidiocdn.com/YHrOBAb7ZODRM_n9Lq8CYAZqyMY=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/17140/18e12a.png" group-title="Sports", SPOTV 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/spotv2.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/spotv2.mpd
+
+#EXTINF:-1 tvg-id="TV5Monde" tvg-name="TV5Monde" tvg-chno="56" tvg-logo="https://thumbor.prod.vidiocdn.com/_OgngejT-5aBjh4UqHPkyR05lm8=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/17278/8e6d94.png" group-title="Berita & Internasional", TV5Monde
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/tv5monde.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/tv5monde.mpd
+
+#EXTINF:-1 tvg-id="beINSports2.id" tvg-name="Bein 2" tvg-chno="57" tvg-logo="https://thumbor.prod.vidiocdn.com/1PyBLhRYdn16STKUOhtfwesJGv8=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/17875/afb4ca.png" group-title="Sports", Bein 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/bein2.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/bein2.mpd
+
+#EXTINF:-1 tvg-id="Champions Golf 1" tvg-name="Champions Golf 1" tvg-chno="58" tvg-logo="https://thumbor.prod.vidiocdn.com/2i24vtPQkYadui6mr2t1biCDw4M=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18189/8180b2.png" group-title="Sports", Champions Golf 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/golf1.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/golf1.mpd
+
+#EXTINF:-1 tvg-id="Champions Golf 2" tvg-name="Champions Golf 2" tvg-chno="59" tvg-logo="https://thumbor.prod.vidiocdn.com/W0oo8NZ6NEYzpc62TjIbI-PloKU=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18190/541269.png" group-title="Sports", Champions Golf 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/golf2.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/golf2.mpd
+
+#EXTINF:-1 tvg-id="CLASH OF CLANS Arctic Open 2026 - Round of 32 (Court 1)" tvg-name="CLASH OF CLANS Arctic Open 2026 - Round of 32 (Court 1)" tvg-chno="60" tvg-logo="https://static-web-dd.prod.vidiocdn.com/assets/default/tv_square_grey-2eb1bb78.png" group-title="TV Nasional", CLASH OF CLANS Arctic Open 2026 - Round of 32 (Court 1)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/clashofclansarcticopen2026roundof32court1.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/clashofclansarcticopen2026roundof32court1.mpd
+
+#EXTINF:-1 tvg-id="CLASH OF CLANS Arctic Open 2026 - Round of 32 (Court 2)" tvg-name="CLASH OF CLANS Arctic Open 2026 - Round of 32 (Court 2)" tvg-chno="61" tvg-logo="https://static-web-dd.prod.vidiocdn.com/assets/default/tv_square_grey-2eb1bb78.png" group-title="TV Nasional", CLASH OF CLANS Arctic Open 2026 - Round of 32 (Court 2)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/clashofclansarcticopen2026roundof32court2.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/clashofclansarcticopen2026roundof32court2.mpd
+
+#EXTINF:-1 tvg-id="CLASH OF CLANS Arctic Open 2026 - Round of 32 (Court 3)" tvg-name="CLASH OF CLANS Arctic Open 2026 - Round of 32 (Court 3)" tvg-chno="62" tvg-logo="https://static-web-dd.prod.vidiocdn.com/assets/default/tv_square_grey-2eb1bb78.png" group-title="TV Nasional", CLASH OF CLANS Arctic Open 2026 - Round of 32 (Court 3)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/clashofclansarcticopen2026roundof32court3.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/clashofclansarcticopen2026roundof32court3.mpd
+
+#EXTINF:-1 tvg-id="Daystar TV" tvg-name="Daystar TV" tvg-chno="63" tvg-logo="https://thumbor.prod.vidiocdn.com/PAUCzF5tX6mT2Oc0yEWxPDsesgs=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18622/d20ab7.png" group-title="TV Daerah & Religi", Daystar TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/daystar.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/daystar.mpd
+
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="Real Madrid TV" tvg-chno="64" tvg-logo="https://thumbor.prod.vidiocdn.com/FSdtXyx_jieGl3BU1Grt4FHQ0qU=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/19538/c129a3.png" group-title="Sports", Real Madrid TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/realmadrid.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/realmadrid.mpd
+
+#EXTINF:-1 tvg-id="Champions Fight" tvg-name="Champions Fight" tvg-chno="65" tvg-logo="https://thumbor.prod.vidiocdn.com/jWCAr7aSuc4AvvQ-KJjq3xH1KaE=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/20216/1a9c41.png" group-title="Sports", Champions Fight
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/fight.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/fight.mpd
+
+#EXTINF:-1 tvg-id="Round 1 (Stadium Court) - ATP 1000: Rolex Shanghai Masters 2026" tvg-name="Round 1 (Stadium Court) - ATP 1000: Rolex Shanghai Masters 2026" tvg-chno="66" tvg-logo="https://static-web-dd.prod.vidiocdn.com/assets/default/tv_square_grey-2eb1bb78.png" group-title="TV Nasional", Round 1 (Stadium Court) - ATP 1000: Rolex Shanghai Masters 2026
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/round1stadiumcourtatp1000rolexshanghaimasters2026.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/round1stadiumcourtatp1000rolexshanghaimasters2026.mpd
+
+#EXTINF:-1 tvg-id="Round 1 (Grandstand 2) - ATP 1000: Rolex Shanghai Masters 2026" tvg-name="Round 1 (Grandstand 2) - ATP 1000: Rolex Shanghai Masters 2026" tvg-chno="67" tvg-logo="https://static-web-dd.prod.vidiocdn.com/assets/default/tv_square_grey-2eb1bb78.png" group-title="TV Nasional", Round 1 (Grandstand 2) - ATP 1000: Rolex Shanghai Masters 2026
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/round1grandstand2atp1000rolexshanghaimasters2026.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/round1grandstand2atp1000rolexshanghaimasters2026.mpd
+
+#EXTINF:-1 tvg-id="Round 1 (Show Court 3) - ATP 1000: Rolex Shanghai Masters 2026" tvg-name="Round 1 (Show Court 3) - ATP 1000: Rolex Shanghai Masters 2026" tvg-chno="68" tvg-logo="https://static-web-dd.prod.vidiocdn.com/assets/default/tv_square_grey-2eb1bb78.png" group-title="TV Nasional", Round 1 (Show Court 3) - ATP 1000: Rolex Shanghai Masters 2026
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/round1showcourt3atp1000rolexshanghaimasters2026.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/round1showcourt3atp1000rolexshanghaimasters2026.mpd
+
+#EXTINF:-1 tvg-id="Round 1 (Court 4) - ATP 1000: Rolex Shanghai Masters 2026" tvg-name="Round 1 (Court 4) - ATP 1000: Rolex Shanghai Masters 2026" tvg-chno="69" tvg-logo="https://static-web-dd.prod.vidiocdn.com/assets/default/tv_square_grey-2eb1bb78.png" group-title="TV Nasional", Round 1 (Court 4) - ATP 1000: Rolex Shanghai Masters 2026
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/round1court4atp1000rolexshanghaimasters2026.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/round1court4atp1000rolexshanghaimasters2026.mpd
+
+#EXTINF:-1 tvg-id="Round 1 - ATP 1000: Rolex Shanghai Masters 2026" tvg-name="Round 1 - ATP 1000: Rolex Shanghai Masters 2026" tvg-chno="70" tvg-logo="https://static-web-dd.prod.vidiocdn.com/assets/default/tv_square_grey-2eb1bb78.png" group-title="TV Nasional", Round 1 - ATP 1000: Rolex Shanghai Masters 2026
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/round1atp1000rolexshanghaimasters2026.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/round1atp1000rolexshanghaimasters2026.mpd
+
+#EXTINF:-1 tvg-id="Citra Drama" tvg-name="Citra Drama" tvg-chno="71" tvg-logo="https://thumbor.prod.vidiocdn.com/2x4BLTjI91danPP7cyvJGEpaTN8=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/21179/13c032.png" group-title="Hiburan & Film", Citra Drama
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/citradrama.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/citradrama.mpd
+
+#EXTINF:-1 tvg-id="Citra Plus" tvg-name="Citra Plus" tvg-chno="72" tvg-logo="https://thumbor.prod.vidiocdn.com/1DqHbHGTjj8rDTriqI7pvnUSjJY=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/21289/95b5b6.png" group-title="Hiburan & Film", Citra Plus
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/citraplus.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/citraplus.mpd
+
+#EXTINF:-1 tvg-id="Bloomberg TV" tvg-name="Bloomberg TV" tvg-chno="73" tvg-logo="https://thumbor.prod.vidiocdn.com/mcy1lDmBKOXISUxxdwBdO9i8iQ4=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/22252/df871e.png" group-title="TV Nasional", Bloomberg TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/bloombergtv.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/bloombergtv.mpd
+
+#EXTINF:-1 tvg-id="Liputan 6 SCTV" tvg-name="Liputan 6 SCTV" tvg-chno="74" tvg-logo="https://static-web-dd.prod.vidiocdn.com/assets/default/tv_square_grey-2eb1bb78.png" group-title="TV Nasional", Liputan 6 SCTV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.last.biz.id/vidio/menculik/liputan6sctv.drm|Origin=https%3A%2F%2Fwww.vidio.com&Referer=https%3A%2F%2Fwww.vidio.com%2F|R{SSM}|
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask-quality
+#KODIPROP:inputstream.adaptive.max_resolution=1080p
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.vidio.com/","Origin":"https://www.vidio.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tv.last.biz.id/vidio/menculik/liputan6sctv.mpd
